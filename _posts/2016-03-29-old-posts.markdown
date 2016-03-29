@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Finally moved!"
+categories: jekyll update
+---
+
+
+[ Good Old blogspot](http://odzhu.blogspot.com), not maintain it anymore.
