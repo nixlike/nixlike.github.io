@@ -4,6 +4,14 @@ author_profile: true
 title: About
 permalink: /about/
 ---
-Ambitious Technical Lead with over 15 years of hands-on experience and a passion for working with the latest technologies.
+I'm a Solution Architect, DevOps, Cloud advocate with more than 15 years in IT  
+and passion to work with cutting edge stack.
 
-Strong technical expertise in DevOps / Continuous Delivery, Cloud, Configuration Management frameworks, UNIX / Linux, Infrastructure support.
+DevOps  
+Continuous Delivery  
+Cloud  
+Infrastructure as a Code  
+Configuration Management frameworks  
+UNIX / Linux  
+Programming  
+

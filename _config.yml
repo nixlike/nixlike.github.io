@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "root"
 title_separator          : "-"
 name                     : "Oleksii Dzhulai"
-description              : "My personal place"
+description              : "My personal page"
 url                      : #"http://www.dzhulai.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
@@ -63,7 +63,7 @@ google_ad_slot           :
 author:
   name             : "Oleksii Dzhulai"
   avatar           : "bio-photo.jpg"
-  bio              : "Solution Architect/DevOps Advocate, EPAM"
+  bio              : "DevOps Systems Architect EPAM"
   location         : "Kyiv, Ukraine"
   email            :
   uri              :
