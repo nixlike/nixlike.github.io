@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: archive
 title:  "Finally moved!"
+author_profile: true
 categories: jekyll update
 ---
 
