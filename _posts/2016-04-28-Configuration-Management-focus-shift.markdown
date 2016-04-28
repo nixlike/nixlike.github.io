@@ -5,7 +5,7 @@ author_profile: true
 categories: jekyll update
 ---
 
-### So, what's wrong with traditional tools Chef, Puppet, Ansible, Salt?   
+### So, what's wrong with traditional tools like Chef, Puppet, Ansible, Salt?   
 All's fine!!   
 They are widely used and everyone seems happy with them.  
 So what is these all about?   
