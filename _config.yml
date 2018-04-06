@@ -64,7 +64,7 @@ author:
   name             : "Oleksii Dzhulai"
   avatar           : "bio-photo.jpg"
   bio              : "DevOps Systems Architect EPAM"
-  location         : "Kyiv, Ukraine"
+  location         :
   email            :
   uri              :
   bitbucket        :
@@ -73,7 +73,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "nixlike"
+  github           : "odzhu"
   google_plus      :
   keybase          :
   instagram        :
